@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "BQ24630RGER")(type "KiCad")(uri "${KIPRJMOD}/libraries/BQ24630RGER.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX17260SETD+T")(type "KiCad")(uri "${KIPRJMOD}/libraries/MAX17260SETD+T.kicad_sym")(options "")(descr ""))
+  (lib (name "AP22966DC8-7")(type "KiCad")(uri "${KIPRJMOD}/libraries/AP22966DC8-7.kicad_sym")(options "")(descr ""))
+  (lib (name "Local")(type "KiCad")(uri "${KIPRJMOD}/libraries/Local.kicad_sym")(options "")(descr ""))
+)
