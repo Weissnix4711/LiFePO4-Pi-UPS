@@ -6,7 +6,19 @@ Features:
 - 500mA or 1.5A charge current
 - USB C input, up to 3A
 - DPM, but not DPPM
-- I~DPM~ = approx 3A
+- I<sub>DPM</sub> = approx 3A
 - 1x MAX17260 Fuel guage
 - 1x INA219 current sensor for 5V output
 - STM32F030x8 MCU
+
+## KiCad project
+
+See [Hardware/](Hardware/).
+
+## Firmware
+
+Todo
+
+## Raspberry Pi auto-shutdown software
+
+Todo
